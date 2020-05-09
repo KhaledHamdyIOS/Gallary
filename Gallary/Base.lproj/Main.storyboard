@@ -22,7 +22,7 @@
                                 </constraints>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mdF-hV-jr1">
-                                <rect key="frame" x="129.66666666666666" y="668" width="154.99999999999997" height="40"/>
+                                <rect key="frame" x="129.66666666666666" y="678" width="154.99999999999997" height="40"/>
                                 <color key="backgroundColor" red="0.55225819350000005" green="0.58110946419999998" blue="0.89415186639999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <constraints>
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="44" id="ofk-0m-gDS"/>
@@ -45,7 +45,7 @@
                         <constraints>
                             <constraint firstItem="u9m-4r-J5V" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="7dq-dw-d6a"/>
                             <constraint firstItem="u9m-4r-J5V" firstAttribute="centerX" secondItem="mdF-hV-jr1" secondAttribute="centerX" id="Gjq-ZF-nHE"/>
-                            <constraint firstItem="mdF-hV-jr1" firstAttribute="top" secondItem="u9m-4r-J5V" secondAttribute="bottom" constant="20" id="UPv-ZQ-gfP"/>
+                            <constraint firstItem="mdF-hV-jr1" firstAttribute="top" secondItem="u9m-4r-J5V" secondAttribute="bottom" constant="30" id="UPv-ZQ-gfP"/>
                             <constraint firstItem="mdF-hV-jr1" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="aLr-4A-oNb"/>
                             <constraint firstItem="u9m-4r-J5V" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="h3L-oD-xUh"/>
                             <constraint firstItem="u9m-4r-J5V" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="mtY-Lg-XK7"/>
